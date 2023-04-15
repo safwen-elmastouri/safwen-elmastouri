@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @safwendev
-- 👀 I’m interested in developing mobile applications
-- 🌱 I’m currently learning Node js and more about React native ( always learning ) 
+- 👋 Hi, I’m Safwen
+- 👀 I’m interested in web & mobile development
+- 🌱 I’m currently learning Node js and more about React & React Native 
