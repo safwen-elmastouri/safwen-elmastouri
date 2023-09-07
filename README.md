@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Safwen
 - 👀 I’m interested in web & mobile development
-- 🌱 I’m currently learning React , Next & React Native 
+- 🌱 I’m currently learning React , Next.js & React Native 
