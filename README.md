@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Safwen
-- 👀 I’m interested in web & mobile development
-- 🌱 I’m currently learning React , Next.js & React Native 
+- 👋 Hi, I’m Safwen Elmastouri , a Full Stack JavaScript Developer and software engineering student
+- 👀 I’m interested in web development
+- 👨🏽‍💻 I’m currently working on React js , Redux , Express.js and Node js 
+- 🌱 I’m currently learning more about Express.js , MongoDB and Docker
